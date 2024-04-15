@@ -1,6 +1,6 @@
 # Career-Track-Analysis
 ## Project Overview
-The project aims to analyze enrollment and achievement data of students in 365's career tracks using SQL and Tableau. By examining enrollment patterns, course completion rates, and exam performance, the objective is to identify trends and insights that can inform improvements to the career track programs. Ultimately, the project seeks to optimize the learning experience and enhance student success in obtaining career certificates.
+The project aims to analyze enrollment and achievement data of students in online career tracks using SQL and Tableau. By examining enrollment patterns, course completion rates, and exam performance, the objective is to identify trends and insights that can inform improvements to the career track programs. Ultimately, the project seeks to optimize the learning experience and enhance student success in obtaining career certificates.
 
 ## Data Sources
 The dataset includes following files:
@@ -79,6 +79,9 @@ Here is a preview of the data that is then analyzed in Tableau.
 
 The graph shows that for most students, it takes 91-365 days to complete the course.
 
+## Suggestions
+- As the analysis indicates, it typically takes up to 365 days for most students to complete the courses. To encourage students to complete the course within that period, offering yearly subscription packages would be beneficial.
+- Very few people are completing the course compared to the enrollment. One of its main causes could be that the platform might not be interactive enough. Therefore, the platform should be more interactive, allowing students who are stuck in a part of the course to seek help from their peers. This approach would facilitate course completion.
 
 
 

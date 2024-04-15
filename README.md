@@ -6,12 +6,12 @@ The project aims to analyze enrollment and achievement data of students in 365's
 - SQL - Data Preparation
 - Tableau- Data Visualization
 
-## Data Used:
+## Data Used
 The dataset includes:
 - career_track_info
 - career_track_student_enrollment
   
-The columns of data are previewed here.
+Here is a preview of the data.
   
   ``` {sql}
   select * from sql_and_tableau.career_track_info;
@@ -27,7 +27,7 @@ The columns of data are previewed here.
 
 
 ## Data Preparation:
-In order to analyze the data, it is needed to joind the data from different tables and perform some caluculation.
+To analyze the data, it is necessary to join data from different tables and perform calculations, which is done in SQL.
 
   ``` {sql}
   select
@@ -62,10 +62,16 @@ on t.track_id=st.track_id
 
 ## Data Visualization
 
+
 ![3](https://github.com/alinah1214/Career-Track-Analysis/assets/149886043/47ae74a3-1adf-4ea8-bf3b-c4cac5ba972f)
 
 
+
+
 ![4](https://github.com/alinah1214/Career-Track-Analysis/assets/149886043/0c28f3ce-d173-4504-a312-e51fa846c374)
+
+
+
 
 ## Findings
 
